@@ -29,3 +29,5 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+**
+Forked from [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
