@@ -26,8 +26,15 @@
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/sayborduu/privgpt/issues). 
 
+## Why did I make this project?
+- Free GPT-4
+- Private, so OpenAI does not know who’re you
+- Allow my mother to use ChatGPT Private on her job (fr)
+- Lazy, so I didn’t have to call every time the API
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 **
+
 Forked from [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
