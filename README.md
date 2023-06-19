@@ -11,7 +11,7 @@
 
 > Private ChatGPT with various models and free GPT-4.
 
-### 🏠 [Homepage](https://gpt.imalexbfs.ml)
+### 🏠 [Homepage](https://github.com/sayborduu/chatgpt-web/)
 
 ### ✨ [Demo](https://gpt.imalexbfs.ml)
 
