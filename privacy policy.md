@@ -58,17 +58,18 @@ By using our website and services, you acknowledge that your data may be collect
 
 ## What kind of personal information does PrivGPT collect from users?
 
-PrivGPT uses @vercel/analytics (free) and Google Analytics to analyze traffic. The information collected includes your browser name, referrer, country, and operating system. Additionally, we may collect information about your chats with any AI, but this data is saved on your device and you're the only one that can read that data. Google Analytics helps us understand how users interact with our website and enables us to improve the user experience. To learn more about how Google Analytics collects and processes data, please visit [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/).
+PrivGPT uses @vercel/analytics (free) and Google Analytics to analyze traffic. The information collected includes your browser name, referrer, country, and operating system. Additionally, we may collect information about errors, but remember that the chat is saved on your device and you're the only one that can read that data. 
+Google Analytics helps us understand how users interact with our website and enables us to improve the user experience. To learn more about how Google Analytics collects and processes data, please visit [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/).
 
 *Data Retention:* The information collected through Google Analytics is retained for a period of 2 months.
 
 ## How does PrivGPT use the personal information it collects?
 
-The personal information collected through analytics is mainly used to improve how our website and services function per browser, operating system, and other factors.
+The personal information collected through **analytics** is mainly used to improve how our website and services function per browser, operating system, and other factors.
 
 ## Does PrivGPT share personal information with third parties? If so, who?
 
-When you send text to any AI, the information will be shared with the corresponding AI maintainer. For example, text sent to gpt-4 goes to OpenAI, Bard to Google, and gpt-4-poe to Poe. There may be more models, and this information is only used to generate a chat response for you.
+When you send text to any AI, the information will be shared with the corresponding AI maintainer. For example, text sent to gpt-4 goes to OpenAI, Bard to Google, and claude-instant-100k to Poe. There may be more models, and this information is only used to generate a chat response for you.
 
 ## How does PrivGPT protect the security of personal information?
 
@@ -76,11 +77,11 @@ PrivGPT takes your privacy seriously. We save chats on your device and do not sh
 
 No account is required to use PrivGPT or in most imalexbfs.ml pages/subdomains.
 
-Third parties might save the information for a limited time, but since you're using PrivGPT, the information won't be related to you, making it impossible for them to know your identity.
+Third parties might save the information for a limited time, but since you're using PrivGPT and a proxy server, the information won't be related to you, making it impossible for them to know your identity.
 
 ## What are users' rights with respect to their personal information?
 
-You have the right to erase cookies, effectively making it as if you never used the website.
+You have the right to erase cookies, effectively making it as if you never used the website. You can also press a remove button on the sidebar to remove everything.
 
 ## CCPA Privacy Rights (Do Not Sell My Personal Information)
 Under the CCPA, among other rights, California consumers have the right to:
@@ -96,7 +97,7 @@ If you make a request, we have one month to respond to you. If you would like to
 ## GDPR Data Protection Rights
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
-The right to access - You have the right to request copies of your personal data. We may charge you a small fee for this service.
+The right to access - You have the right to request copies of your personal data. 
 
 The right to rectification - You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
 
